@@ -11,6 +11,7 @@ This program helps you play like the greatest basketball player ever.
 6. Do a _souting_ report before every game.
 7. You should now be able to ball like **prime** Jordan Poole
 
+##OR
 
 **_THERE IS NO SPLASH WITHOUT DA POOLE_**
 1. See baddy courtside
